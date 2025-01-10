@@ -1,4 +1,4 @@
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_PdX-a46C0JsYym-Yh_VeRCzqXAhicpu5g&s
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_PdX-a46C0JsYym-Yh_VeRCzqXAhicpu5g&s)
 
 # Spotify-Assistant-Using-LLM-Model
 The integration of LLMs into Spotify's platform opens up a world of innovative applications, from enhancing user experience and engagement to empowering music creators and industry stakeholders with actionable data-driven insights.
